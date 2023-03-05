@@ -1,4 +1,4 @@
-**SORTERA - Annotate**
+**Annotorius WebApp**
 
 A simple web page that takes an image as input with a browse button on the web page to add only images.
 
